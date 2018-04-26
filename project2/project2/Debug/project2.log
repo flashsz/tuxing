@@ -1,0 +1,42 @@
+﻿生成启动时间为 2018/4/1 16:55:47。
+项目“C:\Users\dzyqq\Desktop\图形学作业\project2\project2\project2.vcxproj”在节点 2 上(build 个目标)。
+InitializeBuildStatus:
+  正在对“Debug\project2.unsuccessfulbuild”执行 Touch 任务。
+ClCompile:
+  所有输出均为最新。
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\project2.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt project2.cpp
+  project2.cpp
+c:\users\dzyqq\desktop\图形学作业\project2\project2\project2.cpp(251): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+c:\users\dzyqq\desktop\图形学作业\project2\project2\project2.cpp(269): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+c:\users\dzyqq\desktop\图形学作业\project2\project2\project2.cpp(279): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+c:\users\dzyqq\desktop\图形学作业\project2\project2\project2.cpp(282): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+c:\users\dzyqq\desktop\图形学作业\project2\project2\project2.cpp(290): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+c:\users\dzyqq\desktop\图形学作业\project2\project2\project2.cpp(293): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+c:\users\dzyqq\desktop\图形学作业\project2\project2\project2.cpp(300): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+c:\users\dzyqq\desktop\图形学作业\project2\project2\project2.cpp(303): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+c:\users\dzyqq\desktop\图形学作业\project2\project2\project2.cpp(310): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+c:\users\dzyqq\desktop\图形学作业\project2\project2\project2.cpp(314): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+c:\users\dzyqq\desktop\图形学作业\project2\project2\project2.cpp(321): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+c:\users\dzyqq\desktop\图形学作业\project2\project2\project2.cpp(324): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+c:\users\dzyqq\desktop\图形学作业\project2\project2\project2.cpp(331): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+c:\users\dzyqq\desktop\图形学作业\project2\project2\project2.cpp(334): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+c:\users\dzyqq\desktop\图形学作业\project2\project2\project2.cpp(340): error C2065: “fout”: 未声明的标识符
+已完成生成项目“C:\Users\dzyqq\Desktop\图形学作业\project2\project2\project2.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.57

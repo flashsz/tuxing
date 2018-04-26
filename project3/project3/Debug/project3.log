@@ -1,0 +1,19 @@
+﻿生成启动时间为 2018/4/24 21:28:51。
+项目“C:\Users\dzyqq\Desktop\图形学作业\project3\project3\project3.vcxproj”在节点 2 上(build 个目标)。
+InitializeBuildStatus:
+  正在对“Debug\project4.unsuccessfulbuild”执行 Touch 任务。
+ClCompile:
+  所有输出均为最新。
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\project4.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Quaternion.cpp
+  Quaternion.cpp
+c:\users\dzyqq\desktop\图形学作业\project3\project3\quaternion.cpp(5): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\dzyqq\desktop\图形学作业\project3\project3\quaternion.cpp(159): warning C4101: “xa”: 未引用的局部变量
+c:\users\dzyqq\desktop\图形学作业\project3\project3\quaternion.cpp(159): warning C4101: “za”: 未引用的局部变量
+c:\users\dzyqq\desktop\图形学作业\project3\project3\quaternion.cpp(159): warning C4101: “ya”: 未引用的局部变量
+c:\users\dzyqq\desktop\图形学作业\project3\project3\quaternion.cpp(96): error C4716: “CQuaternion::operator*”: 必须返回一个值
+c:\users\dzyqq\desktop\图形学作业\project3\project3\quaternion.cpp(171): error C4716: “CQuaternion::Slerp”: 必须返回一个值
+已完成生成项目“C:\Users\dzyqq\Desktop\图形学作业\project3\project3\project3.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.60
