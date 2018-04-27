@@ -41,9 +41,6 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="project4.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="Vector048.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -54,6 +51,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="Quaternion.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="project4.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
