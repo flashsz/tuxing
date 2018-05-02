@@ -1,16 +1,24 @@
-﻿生成启动时间为 2018/4/28 0:12:57。
-项目“C:\Users\dzyqq\Desktop\图形学作业\project4\project4\project4.vcxproj”在节点 2 上(build 个目标)。
-InitializeBuildStatus:
-  正在创建“Debug\project4.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
-ClCompile:
-  所有输出均为最新。
-  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\project4.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt project4.cpp
-  project4.cpp
-c:\users\dzyqq\desktop\图形学作业\project4\project4\project4.cpp(154): error C2065: “g_allpos”: 未声明的标识符
-c:\users\dzyqq\desktop\图形学作业\project4\project4\project4.cpp(187): error C2065: “if（）”: 未声明的标识符
-c:\users\dzyqq\desktop\图形学作业\project4\project4\project4.cpp(187): error C2146: 语法错误: 缺少“;”(在标识符“robotPos”的前面)
-已完成生成项目“C:\Users\dzyqq\Desktop\图形学作业\project4\project4\project4.vcxproj”(build 个目标)的操作 - 失败。
+﻿生成启动时间为 2018/5/2 16:58:25。
+     1>项目“C:\Users\dzyqq\Desktop\图形学作业\project4\project4\project4.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\project4.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\project4.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt project4.cpp
+         project4.cpp
+     1>c:\users\dzyqq\desktop\图形学作业\project4\project4\project4.cpp(245): error C2065: “travelmode”: 未声明的标识符
+     1>c:\users\dzyqq\desktop\图形学作业\project4\project4\project4.cpp(249): error C2065: “travelmode”: 未声明的标识符
+     1>c:\users\dzyqq\desktop\图形学作业\project4\project4\project4.cpp(264): error C2661: “CMatrix048::SetRotate”: 没有重载函数接受 1 个参数
+     1>c:\users\dzyqq\desktop\图形学作业\project4\project4\project4.cpp(265): error C2440: “初始化”: 无法从“int”转换为“CVector048”
+                 无构造函数可以接受源类型，或构造函数重载决策不明确
+     1>c:\users\dzyqq\desktop\图形学作业\project4\project4\project4.cpp(288): error C2065: “type”: 未声明的标识符
+     1>c:\users\dzyqq\desktop\图形学作业\project4\project4\project4.cpp(288): error C2065: “type”: 未声明的标识符
+     1>c:\users\dzyqq\desktop\图形学作业\project4\project4\project4.cpp(289): error C2065: “type”: 未声明的标识符
+     1>c:\users\dzyqq\desktop\图形学作业\project4\project4\project4.cpp(292): error C2065: “g_mode”: 未声明的标识符
+     1>c:\users\dzyqq\desktop\图形学作业\project4\project4\project4.cpp(304): error C2065: “midlast”: 未声明的标识符
+     1>c:\users\dzyqq\desktop\图形学作业\project4\project4\project4.cpp(330): error C2065: “g_mode”: 未声明的标识符
+     1>已完成生成项目“C:\Users\dzyqq\Desktop\图形学作业\project4\project4\project4.vcxproj”(build 个目标)的操作 - 失败。
 
 生成失败。
 
-已用时间 00:00:01.60
+已用时间 00:00:01.37
