@@ -1,24 +1,128 @@
-﻿生成启动时间为 2018/5/2 16:58:25。
-     1>项目“C:\Users\dzyqq\Desktop\图形学作业\project4\project4\project4.vcxproj”在节点 2 上(build 个目标)。
+﻿生成启动时间为 2018/5/7 12:44:48。
+     1>项目“C:\Users\dzyqq\Desktop\Repository\project4\project4\project4.vcxproj”在节点 2 上(build 个目标)。
      1>InitializeBuildStatus:
-         正在对“Debug\project4.unsuccessfulbuild”执行 Touch 任务。
+         正在创建“Debug\project4.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
        ClCompile:
          所有输出均为最新。
          C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\project4.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt project4.cpp
          project4.cpp
-     1>c:\users\dzyqq\desktop\图形学作业\project4\project4\project4.cpp(245): error C2065: “travelmode”: 未声明的标识符
-     1>c:\users\dzyqq\desktop\图形学作业\project4\project4\project4.cpp(249): error C2065: “travelmode”: 未声明的标识符
-     1>c:\users\dzyqq\desktop\图形学作业\project4\project4\project4.cpp(264): error C2661: “CMatrix048::SetRotate”: 没有重载函数接受 1 个参数
-     1>c:\users\dzyqq\desktop\图形学作业\project4\project4\project4.cpp(265): error C2440: “初始化”: 无法从“int”转换为“CVector048”
-                 无构造函数可以接受源类型，或构造函数重载决策不明确
-     1>c:\users\dzyqq\desktop\图形学作业\project4\project4\project4.cpp(288): error C2065: “type”: 未声明的标识符
-     1>c:\users\dzyqq\desktop\图形学作业\project4\project4\project4.cpp(288): error C2065: “type”: 未声明的标识符
-     1>c:\users\dzyqq\desktop\图形学作业\project4\project4\project4.cpp(289): error C2065: “type”: 未声明的标识符
-     1>c:\users\dzyqq\desktop\图形学作业\project4\project4\project4.cpp(292): error C2065: “g_mode”: 未声明的标识符
-     1>c:\users\dzyqq\desktop\图形学作业\project4\project4\project4.cpp(304): error C2065: “midlast”: 未声明的标识符
-     1>c:\users\dzyqq\desktop\图形学作业\project4\project4\project4.cpp(330): error C2065: “g_mode”: 未声明的标识符
-     1>已完成生成项目“C:\Users\dzyqq\Desktop\图形学作业\project4\project4\project4.vcxproj”(build 个目标)的操作 - 失败。
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(956): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(961): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(968): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(970): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(975): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1027): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1053): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1075): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1083): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1098): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1103): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1116): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1121): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1135): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1140): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1153): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1158): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1169): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1174): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1185): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1190): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1201): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1206): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1217): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1223): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1234): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1240): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1251): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1253): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1258): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1270): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1272): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1277): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1291): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1293): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1299): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1311): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1317): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1329): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1335): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1348): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1350): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1351): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(253) : 参见“fscanf”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1357): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1068): warning C4101: “i”: 未引用的局部变量
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1067): warning C4101: “result”: 未引用的局部变量
+     1>c:\users\dzyqq\desktop\repository\project4\project4\project4.cpp(1132): warning C4101: “a”: 未引用的局部变量
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dzyqq\Desktop\Repository\project4\Debug\project4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\project4.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\dzyqq\Desktop\Repository\project4\Debug\project4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\dzyqq\Desktop\Repository\project4\Debug\project4.lib" /MACHINE:X86 Debug\project4.exe.embed.manifest.res
+         Debug\Euler.obj
+         Debug\Matrix048.obj
+         Debug\project4.obj
+         Debug\Quaternion.obj
+         Debug\stdafx.obj
+         Debug\Vector048.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\project4.exe.embed.manifest" /manifest Debug\project4.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         project4.vcxproj -> C:\Users\dzyqq\Desktop\Repository\project4\Debug\project4.exe
+       PostBuildEvent:
+         copy ..\debug\*.exe ..\lib\
+         :VCEnd
+         ..\debug\project4.exe
+         已复制         1 个文件。
+       FinalizeBuildStatus:
+         正在删除文件“Debug\project4.unsuccessfulbuild”。
+         正在对“Debug\project4.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\dzyqq\Desktop\Repository\project4\project4\project4.vcxproj”(build 个目标)的操作。
 
-生成失败。
+生成成功。
 
-已用时间 00:00:01.37
+已用时间 00:00:02.42
